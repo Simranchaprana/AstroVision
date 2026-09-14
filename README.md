@@ -55,4 +55,4 @@ AstroVision/
 
 1. Launch the app on a supported device.
 2. Point the camera at a zodiac card.
-3. Once the card is recognized, a 3D panel appears showing the associated name, zodiac sign, and daily prediction.
+3. Once the card is recognized, a 3D panel appears showing the associated name, zodiac sign, and daily predictions.
